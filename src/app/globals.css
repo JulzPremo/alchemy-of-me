@@ -141,3 +141,131 @@ p {
     display: flex;
   }
 }
+.web-projects-container {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+  color: #333;
+}
+
+.page-title {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.page-description {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.project-list {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.project-card {
+  margin-bottom: 2rem; /* or more if you'd like more space */
+  padding: 1.5rem;
+  border-radius: 1rem;
+  background-color: #ffffffcc; /* subtle bubble effect */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.project-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.project-summary {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.project-link {
+  text-decoration: none;
+  color: #5e42a6;
+  font-weight: bold;
+}
+
+.page-footer {
+  margin-top: 2rem;
+}
+.section-bubble {
+  background: #fff0f5;
+  padding: 2rem;
+  border-radius: 2rem;
+  margin: 2rem auto;
+  max-width: 960px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.section-subtitle {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-style: italic;
+}
+
+.tool-card {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 1.5rem;
+  margin-top: 2rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
+
+.tool-title {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.tool-description {
+  margin-bottom: 1rem;
+}
+
+.tool-points {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.back-link {
+  margin-top: 2rem;
+  text-align: center;
+}
+.music-lyrics {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 1.5rem;
+  margin-top: 2rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
+
+.lyrics-text {
+  white-space: pre-wrap;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.music-section {
+  margin-top: 2rem;
+  background-color: #fefefe;
+  padding: 1.5rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
+
+.music-note {
+  margin-top: 1.5rem;
+  font-style: italic;
+  background-color: #fff8e1;
+  padding: 1rem;
+  border-left: 5px solid #f4c430;
+  border-radius: 1rem;
+}
