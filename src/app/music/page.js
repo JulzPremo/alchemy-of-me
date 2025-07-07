@@ -40,7 +40,26 @@ Let the drums kick in, let the bass line roll,{"\n"}
 I’m alive, I’m free, and I’m in control.
         </pre>
       </div>
-
+<div className="song-story music-section">
+  <h2 class="section-title">🎭 The Story Behind <em>Playing Possum</em></h2>
+  <p>
+    <em>Playing Possum</em> was born from a deeply personal place—where fear meets performance, and survival becomes an art. 
+    The phrase itself captures what I’ve often felt: playing dead to stay safe, quieting my truth to keep the peace. But behind 
+    that stillness lived a soul aching to dance, sing, and scream her story.
+  </p>
+  <p>
+    This song explores the tension between my inner light and shadow, especially as someone navigating mental health, trauma recovery, 
+    and personal identity. It’s about the masks we wear, the parts we silence, and what it means to finally reclaim your voice. The duality 
+    is intentional—whispers versus belts, soft flutes versus grounding clarinets, dream against dread. It's also a nod to my experience with 
+    dissociative identity disorder, though it never says that aloud. Instead, it lets the listener feel the shift and contrast as the two sides 
+    of me move through the music.
+  </p>
+  <p>
+    I built the instrumental layers using Sonic Pi, experimenting with rhythm coding, ambient textures, and gradual build-ups. 
+    The song fuses electronic elements with organic emotion—mirroring my journey of using tech and art to reconnect with myself. 
+    You’ll hear more when the audio is live, but for now, the lyrics and intention are here to speak.
+  </p>
+</div>
       <div className="music-section">
         <h2>🎧 Soundscape & Visual Ideas</h2>
         <ul className="project-points">

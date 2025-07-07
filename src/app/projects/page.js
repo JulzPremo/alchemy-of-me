@@ -1,4 +1,3 @@
-// pages/web-projects.js
 import Head from 'next/head';
 import Link from 'next/link';
 

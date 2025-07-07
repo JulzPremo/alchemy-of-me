@@ -269,3 +269,34 @@ p {
   border-left: 5px solid #f4c430;
   border-radius: 1rem;
 }
+* {
+  transition: all 0.3s ease-in-out;
+}
+button,
+.project-button {
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover,
+.project-button:hover {
+  background-color: #ffb6c1; /* Light pink */
+  transform: scale(1.05);
+}
+.project-card {
+  transition: box-shadow 0.3s ease, transform 0.2s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+}
+a {
+  text-decoration: none;
+  transition: color 0.3s ease, text-shadow 0.2s ease;
+}
+
+a:hover {
+  color: #ff69b4; /* Hot pink */
+  text-shadow: 0 0 5px #ff69b4;
+}
