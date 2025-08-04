@@ -293,16 +293,16 @@ export default function SpiritualTools() {
             {cards.length === 0 ? (
               <>
                 <div className="tool-card-holder">
-                  <img src="/images/Tarot Back.svg" alt="Back of Card 1" className="placeholder-img" />
+                  <Image  src="/images/Tarot Back.svg" alt="Back of Card 1" className="placeholder-img" />
                 </div>
                 <div className="tool-card-holder">
-                  <img src="/images/Tarot Back.svg" alt="Back of Card 2" className="placeholder-img" />
+                  <Image  src="/images/Tarot Back.svg" alt="Back of Card 2" className="placeholder-img" />
                 </div>
               </>
             ) : (
               cards.map((card, index) => (
                 <div className="tool-card-holder" key={index}>
-                  <img
+                  <Image 
                     src={revealed ? card.image : '/images/Tarot Back.svg'}
                     alt={card.name}
                     className="placeholder-img"
@@ -339,7 +339,7 @@ export default function SpiritualTools() {
 
           <div className="tool-placeholder-container">
             <div className="tool-card-holder">
-              <img src="/images/Coming-Soon-Rune.svg" alt="Rune Coming Soon" className="placeholder-img" />
+              <Image  src="/images/Coming-Soon-Rune.svg" alt="Rune Coming Soon" className="placeholder-img" />
             </div>
           </div>
 

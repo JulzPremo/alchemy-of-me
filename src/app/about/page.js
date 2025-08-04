@@ -20,14 +20,14 @@ export default function AboutPage() {
         {/* Personal Intro */}
         <div className="section_bubble2">
           <p>
-            Hi! I’m Julia — a creative technologist and lifelong learner with a passion for blending code with storytelling.
-            When I’m not immersed in design or development, you’ll likely find me surrounded by my beloved pets (including
+            Hi! I&apos;m Julia — a creative technologist and lifelong learner with a passion for blending code with storytelling.
+            When I&apos;m not immersed in design or development, you&apos;ll likely find me surrounded by my beloved pets (including
             my dog!) or exploring new ways to express myself creatively.
           </p>
           <p>
             From photography and digital design to crafting meaningful online experiences, I love building things that feel
-            both beautiful and intentional. I’m also an active participant and local leader in the Society for Creative Anachronism (SCA),
-            where I help organize events and bring history to life through community and education. Outside of that, I’m an avid gamer,
+            both beautiful and intentional. I&apos;m also an active participant and local leader in the Society for Creative Anachronism (SCA),
+            where I help organize events and bring history to life through community and education. Outside of that, I&apos;m an avid gamer,
             nature lover, and advocate for mental health and authenticity in all areas of life.
           </p>
         </div>
@@ -40,7 +40,7 @@ export default function AboutPage() {
             how to listen, empathize, and solve problems with clarity and care.
           </p>
           <p>
-            I’ve worked the front lines of service centers, guided frustrated customers through complex systems, and trained new team members
+            I&apos;ve worked the front lines of service centers, guided frustrated customers through complex systems, and trained new team members
             to rise with confidence. These roles sharpened not just my communication, but my ability to translate needs into action —
             a skill that naturally led me to my current position as a Service Coordinator, where I manage workflows, coordinate across teams,
             and keep operations running smoothly.
@@ -61,8 +61,8 @@ export default function AboutPage() {
             My years in customer service have given me a unique ability to understand the needs behind the request.
           </p>
           <p>
-            I don’t just hear what clients say; I listen for what they mean, anticipate challenges, and strive to create solutions
-            that truly serve them. Whether I’m building an interactive experience, crafting an online portfolio, or prototyping a feature
+            I don&apos;t just hear what clients say; I listen for what they mean, anticipate challenges, and strive to create solutions
+            that truly serve them. Whether I&apos;m building an interactive experience, crafting an online portfolio, or prototyping a feature
             for a community platform, I approach each project with empathy, clarity, and a user-first mindset.
           </p>
           <p>
@@ -73,20 +73,20 @@ export default function AboutPage() {
 
         {/* Site Philosophy & Brand Vision */}
         <div className="section_bubble2">
-          <h2>🌟 Why "The Alchemy of Me"</h2>
+          <h2>🌟 Why &ldquo;The Alchemy of Me&rdquo;</h2>
           <p>
-            <em>The Alchemy of Me</em> is more than a personal brand — it’s a creative declaration. It's a space where I combine my
+            <em>The Alchemy of Me</em> is more than a personal brand — it&apos;s a creative declaration. It&apos;s a space where I combine my
             diverse skill set, life experience, and personal style to build something entirely my own.
           </p>
           <p>
-            Rather than following a standard path or template, I’ve chosen to showcase what I can do through a platform I’ve designed
+            Rather than following a standard path or template, I&apos;ve chosen to showcase what I can do through a platform I&apos;ve designed
             from the ground up. This site is a living, evolving portfolio — a blend of code, design, storytelling, and curiosity —
             all shaped by who I am and what I care about.
           </p>
           <p>
             From front-end development to creative problem-solving, from user-focused thinking to clean, functional design,
             every part of this site is meant to show how I approach challenges and express myself through my work.
-            <em> The Alchemy of Me</em> is my way of saying: “Here’s what I can do — and here’s how I’ll make it unforgettable.”
+            <em> The Alchemy of Me</em> is my way of saying: &ldquo;Here&apos;s what I can do — and here&apos;s how I&apos;ll make it unforgettable.&rdquo;
           </p>
         </div>
 
