@@ -14,7 +14,7 @@ export default function Music() {
         {/* Page Title and Intro */}
         <h1 className="page-title">🎵 Music</h1>
         <p className="page-description">
-          This is a track I have been working on in Sonic Pi, using python to code music. 
+          This is a track I have been working on in Sonic Pi, using Python to code music. 
         </p>
 
         {/* Audio Playback Section */}
@@ -38,7 +38,7 @@ export default function Music() {
 
         {/* Sound & Visual Concepts */}
         <div className="section_bubble2">
-          <h2>🎧 Soundscape & Visual Ideas</h2>
+          <h2>🎧 Soundscape &amp; Visual Ideas</h2>
           <ul className="project-points">
             <li>Saxophone feature in bridge and outro jam</li>
             <li>Layered vocals during the bridge</li>
@@ -51,7 +51,9 @@ export default function Music() {
         {/* Sonic Pi Composition Notes */}
         <div className="section_bubble2">
           <h2>💻 Composing with Code: Sonic Pi</h2>
-          <p><em>My track</em> is not just a musical piece&mdash;it&apos;s a coding journey...</p>
+          <p>
+            <em>My track</em> is not just a musical piece&mdash;it&apos;s a coding journey...
+          </p>
           <ul className="project-points">
             <li><strong>Beat &amp; Rhythm:</strong> Custom drum loops...</li>
             <li><strong>Ambient Texture:</strong> Vinyl crackle and tape hiss...</li>
@@ -63,7 +65,7 @@ export default function Music() {
 
         {/* Back Navigation */}
         <div className="back-link">
-          <Link href="/">← Back to Home</Link>
+          <Link href="/">&larr; Back to Home</Link>
         </div>
       </div>
     </>

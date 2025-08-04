@@ -92,7 +92,7 @@ export default function AboutPage() {
 
         {/* Back to Home */}
         <div className="back-link">
-          <Link href="/">← Back to Home</Link>
+          <Link href="/">&larr; Back to Home</Link>
         </div>
       </div>
     </>
