@@ -22,7 +22,7 @@ export default function Music() {
           <h2>🎧 Listen to my <em>Sonic-Pi Creation</em></h2>
           <p>
             This is my first time creating music using Sonic Pi, and I brought the layers together in Audacity to shape the early foundation of this track.
-            It&apos;s not fully complete yet—I still want to refine the timing and add more depth—but I&apos;m proud of how far it&apos;s come.
+            It&apos;s not fully complete yet&mdash;I still want to refine the timing and add more depth&mdash;but I&apos;m proud of how far it&apos;s come.
             It&apos;s already capturing the emotion, code, and courage I set out to express.
           </p>
 
@@ -51,9 +51,9 @@ export default function Music() {
         {/* Sonic Pi Composition Notes */}
         <div className="section_bubble2">
           <h2>💻 Composing with Code: Sonic Pi</h2>
-          <p><em>My track</em> is not just a musical piece—it&apos;s a coding journey...</p>
+          <p><em>My track</em> is not just a musical piece&mdash;it&apos;s a coding journey...</p>
           <ul className="project-points">
-            <li><strong>Beat & Rhythm:</strong> Custom drum loops...</li>
+            <li><strong>Beat &amp; Rhythm:</strong> Custom drum loops...</li>
             <li><strong>Ambient Texture:</strong> Vinyl crackle and tape hiss...</li>
             <li><strong>Melodic Structure:</strong> Lead melody with reverb...</li>
             <li><strong>Dynamic Build:</strong> Chorus-driven energy shifts...</li>
